@@ -1,0 +1,13 @@
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\bin\Debug\PracticaIPS.exe.config
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\bin\Debug\PracticaIPS.exe
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\bin\Debug\PracticaIPS.pdb
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.csprojAssemblyReference.cache
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.frmCitas.resources
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.frmInicioSesion.resources
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.Properties.Resources.resources
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.csproj.GenerateResource.cache
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.exe
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.pdb
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.frmRegistroMedico.resources
+C:\Users\jessi\source\repos\PracticaIPS\PracticaIPS\obj\Debug\PracticaIPS.frmRegistroPaciente.resources

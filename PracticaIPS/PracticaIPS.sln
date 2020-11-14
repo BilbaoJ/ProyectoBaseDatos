@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaIPS", "PracticaIPS\PracticaIPS.csproj", "{9683F996-A643-4B88-A79E-13C032A90CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaIPSTest", "PracticaIPSTest\PracticaIPSTest.csproj", "{09737F48-8B96-40C3-88B0-B2670D71BD90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9683F996-A643-4B88-A79E-13C032A90CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9683F996-A643-4B88-A79E-13C032A90CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9683F996-A643-4B88-A79E-13C032A90CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9683F996-A643-4B88-A79E-13C032A90CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09737F48-8B96-40C3-88B0-B2670D71BD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09737F48-8B96-40C3-88B0-B2670D71BD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09737F48-8B96-40C3-88B0-B2670D71BD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09737F48-8B96-40C3-88B0-B2670D71BD90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3970E64A-AD59-4412-B096-43F836C3F0E7}
+	EndGlobalSection
+EndGlobal
